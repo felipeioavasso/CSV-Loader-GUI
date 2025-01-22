@@ -15,3 +15,7 @@ Uma aplicação gráfica desenvolvida com Python e Tkinter para facilitar o carr
 ### Pré-requisitos  
 - Python 3.7 ou superior  
 - Instalar as dependências listadas em `requirements.txt`.  
+
+
+https://github.com/user-attachments/assets/833d9958-eec0-4c53-b2cb-5c8c98989915
+
